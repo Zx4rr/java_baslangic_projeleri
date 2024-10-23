@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATM/ATM.iml" filepath="$PROJECT_DIR$/ATM/ATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hesapmakinesi/Hesapmakinesi.iml" filepath="$PROJECT_DIR$/Hesapmakinesi/Hesapmakinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Taksimetre/Taksimetre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adamasmaca/adamasmaca.iml" filepath="$PROJECT_DIR$/adamasmaca/adamasmaca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boyaprojesi/boyaprojesi.iml" filepath="$PROJECT_DIR$/boyaprojesi/boyaprojesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buyukkucuksayilar/buyukkucuksayilar.iml" filepath="$PROJECT_DIR$/buyukkucuksayilar/buyukkucuksayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dizidekielemantoplami/dizidekielemantoplami.iml" filepath="$PROJECT_DIR$/dizidekielemantoplami/dizidekielemantoplami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ebob-ekok/ebob-ekok.iml" filepath="$PROJECT_DIR$/ebob-ekok/ebob-ekok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geometriproje/geometriproje.iml" filepath="$PROJECT_DIR$/geometriproje/geometriproje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_baslangic_projeleri.iml" filepath="$PROJECT_DIR$/.idea/java_baslangic_projeleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kdv_tutar/kdv_tutar.iml" filepath="$PROJECT_DIR$/kdv_tutar/kdv_tutar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mukemmelsayi/mukemmelsayi.iml" filepath="$PROJECT_DIR$/mukemmelsayi/mukemmelsayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nothesaplama/nothesaplama.iml" filepath="$PROJECT_DIR$/nothesaplama/nothesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nothesaplama2/nothesaplama2.iml" filepath="$PROJECT_DIR$/nothesaplama2/nothesaplama2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ogrencibilgisistemi/ogrencibilgisistemi.iml" filepath="$PROJECT_DIR$/ogrencibilgisistemi/ogrencibilgisistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sayitahmin/sayitahmin.iml" filepath="$PROJECT_DIR$/sayitahmin/sayitahmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sepettutari/sepettutari.iml" filepath="$PROJECT_DIR$/sepettutari/sepettutari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sicaklikornek/sicaklikornek.iml" filepath="$PROJECT_DIR$/sicaklikornek/sicaklikornek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tersucgen/tersucgen.iml" filepath="$PROJECT_DIR$/tersucgen/tersucgen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usalmaislemi/usalmaislemi.iml" filepath="$PROJECT_DIR$/usalmaislemi/usalmaislemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vucutkitleindeks/vucutkitleindeks.iml" filepath="$PROJECT_DIR$/vucutkitleindeks/vucutkitleindeks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yildizprojesi/yildizprojesi.iml" filepath="$PROJECT_DIR$/yildizprojesi/yildizprojesi.iml" />
+    </modules>
+  </component>
+</project>
